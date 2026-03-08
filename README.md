@@ -1,7 +1,5 @@
 # Pictum Coffee & Kitchen - Landing Page
 
-![Pictum Coffee & Kitchen Banner](assets/images/hero-bg.jpg)
-
 Website ini adalah **Landing Page / Company Profile** statis untuk **Pictum Coffee & Kitchen**, sebuah cafe dan restoran berkonsep modern yang berlokasi di Jakarta Selatan. Website ini dirancang untuk menampilkan informasi lengkap mengenai cafe, menu unggulan, fasilitas, promo, hingga melayani reservasi meja secara online yang terintegrasi langsung dengan WhatsApp.
 
 ## 📸 Tampilan Website (Screenshots)
